@@ -15,7 +15,7 @@ let songs = [
     { songName: 'World war', duration: '02:56', filePath: '/World War_128-(DJPunjab).mp3', coversPath: 'https://koshalworld.com/siteuploads/thumb/sft59/29054_7.jpg' },
     { songName: 'Newspaper', duration: '02:55', filePath: '/Newspaper.mp3', coversPath: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_yPJ63SckTuChQudoNb-Zhll3pJ_KUo_-yQ&usqp=CAU' },
     { songName: 'Tension', duration: '02:49', filePath: '/Tension - Nijjar.mp3', coversPath: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTy0psLKvhU6eK5hDjx92Ci-sMFg777Dszm1A&usqp=CAU' },
-    { songName: 'America wala', duration: '03:07', filePath: `America Wala - Ravraaz.mp3`, coversPath: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSpKzddl6yVGJZlF5o3VQHdD1Xu-IQetaZ6Fg&usqp=CAU' },
+    { songName: 'America wala', duration: '03:07', filePath: 'America Wala - Ravraaz.mp3', coversPath: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSpKzddl6yVGJZlF5o3VQHdD1Xu-IQetaZ6Fg&usqp=CAU' },
     { songName: 'Vibe', duration: '02:44', filePath: '/Vibe - Gulab Sidhu.mp3', coversPath: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRe0mUqVqollS3C3JGc4uNb1Ao9OEzDbYR63g&usqp=CAU' },
     { songName: 'Badam', duration: '03:32', filePath: '/Badam_Sumit_Parta.mp3', coversPath: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSa5MfFd9uBWuKGozfa48YD8PtEKArE8aUyIw&usqp=CAU' },
     { songName: 'Student life', duration: '03:34', filePath: '/Student Life - Romey Maan.mp3', coversPath: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTSwu4a3M9m2cF27gUl1vuEfSBMoHT8ee0V1Q&usqp=CAU' },
