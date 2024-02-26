@@ -9,7 +9,7 @@ let nextPlay = document.getElementById('nextPlay')
 let previousPlay = document.getElementById('previousPlay')
 let ab = 0
 let songs = [
-    { songName: 'chill wave', duration: '02:53', filePath: '/Chill Wave(PaglaSongs).mp3', coversPath: 'https://source.boomplaymusic.com/group10/M00/11/15/6486d8d560c646c7ba89a725d23c0b7d_464_464.jpg' },
+    { songName: 'chill wave', duration: '02:53', filePath: 'Chill Wave(PaglaSongs).mp3', coversPath: 'https://source.boomplaymusic.com/group10/M00/11/15/6486d8d560c646c7ba89a725d23c0b7d_464_464.jpg' },
     { songName: 'season', duration: '03:35', filePath: '/Season(PaglaSongs).mp3', coversPath: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTitD-pjV84wcp4wJR-MIayGVvUXLSLf2wHNQ&usqp=CAU' },
     { songName: 'sheh', duration: '03:09', filePath: '/Sheh - Singga.mp3', coversPath: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ67savw8VYadQTv5biMcIQdnZcJrDux3e5Dw&usqp=CAU' },
     { songName: 'World war', duration: '02:56', filePath: '/World War_128-(DJPunjab).mp3', coversPath: 'https://koshalworld.com/siteuploads/thumb/sft59/29054_7.jpg' },
