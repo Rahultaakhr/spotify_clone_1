@@ -1,0 +1,17 @@
+let a=`${songs[i].filePath}`
+       if (audioElement.paused) {
+           audioElement=new Audio(a)
+        audioElement.play()
+        
+        e.target.classList.remove('fa-circle-play')
+           e.target.classList.add('fa-circle-pause')
+ 
+        masterPlay.classList.toggle('fa-circle-pause')
+        gif.style.opacity='1'
+       } else {
+           audioElement.pause()
+           masterPlay.classList.toggle('fa-circle-pause')
+           gif.style.opacity='0'
+       }
+       makeAllplays()
+     
